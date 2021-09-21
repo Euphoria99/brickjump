@@ -3,6 +3,14 @@
     margin: 0;
     overflow-x: hidden;
 }
+
+.header {
+  padding: 60px;
+  text-align: center;
+  color: black;
+  font-size: 30px;
+} 
+
 .game{
     width: 500px;
     height: 200px;
